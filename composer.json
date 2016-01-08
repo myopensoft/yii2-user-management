@@ -1,5 +1,5 @@
 {
-	"name": "myopensoft/module-user-management",
+	"name": "myopensoft/yii2-user-management",
 	"description": "User with improved RBAC",
 	"autoload": {
 		"psr-4": {
