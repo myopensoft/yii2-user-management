@@ -1,5 +1,5 @@
 {
-	"name": "webvimark/module-user-management",
+	"name": "myopensoft/module-user-management",
 	"description": "User with improved RBAC",
 	"autoload": {
 		"psr-4": {
@@ -7,12 +7,12 @@
 		}
 	},
 	"require": {
-		"webvimark/components": "dev-master",
-		"webvimark/bootstrap-switch": "dev-master",
-		"ikimea/browser": "dev-master",
-		"webvimark/date-range-picker": "dev-master",
-		"webvimark/helpers": "dev-master",
-		"webvimark/grid-bulk-actions": "dev-master",
-		"webvimark/grid-page-size": "dev-master"
+		"webvimark/components": "*",
+		"webvimark/bootstrap-switch": "*",
+		"ikimea/browser": "*",
+		"webvimark/date-range-picker": "*",
+		"webvimark/helpers": "*",
+		"webvimark/grid-bulk-actions": "*",
+		"webvimark/grid-page-size": "*"
 	}
 }
